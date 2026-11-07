@@ -12,9 +12,10 @@ I'm a final-year B.E. student in Artificial Intelligence & Machine Learning at *
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[VeriAI](https://github.com/DhanushBattu/verification-ai-v2)** | AI hallucination checker (B.E. major project, team of 4): splits an AI answer into claims and fact-checks each one against Wikipedia, Wikidata, Crossref and OpenAlex, flags wrong claims and fabricated papers, and suggests re-checked corrections | Python · FastAPI · React · TypeScript · PyTorch · Transformers |
 | **[IPL Intelligence](https://github.com/DhanushBattu/IPL-Predictor-Analytics)** | Flask app that predicts IPL match winners with 6 ML models trained on 1,095 matches (2008–2024), plus login and an insights dashboard with toss, team and Player of the Match stats. Models are cross-validated against a toss baseline. | Python · Flask · Scikit-learn · SQLite |
 | **[Netra-One](https://github.com/DhanushBattu/dhanush-netraone-emergency-vehicle)** | End-to-end YOLOv8 pipeline that detects Indian ambulances, police vehicles and fire tenders: scraping, perceptual-hash de-duplication, Grounding DINO auto-labelling, training, ONNX export | Python · YOLOv8 · PyTorch · OpenCV |
-| **Cross-Platform Rental App** | Rental marketplace for Web, iOS and Android with RBAC-protected KYC data, transaction-safe bookings and push alerts *(code available on request)* | Flutter · Dart · Firestore · FCM |
+| **[Cross-Platform Rental App](https://github.com/DhanushBattu/Rental_main)** | Team project: rental marketplace for Web, iOS and Android with RBAC-protected KYC data, transaction-safe bookings and push alerts | Flutter · Dart · Firestore · FCM |
 | **[Restaurant POS + KDS](https://github.com/DhanushBattu/Hotel-management)** | Point-of-sale with role-based PIN login, kitchen display by station and GST billing | React · TypeScript · Tailwind · Zustand |
 | **[Gesture Mouse](https://github.com/DhanushBattu/handtrack)** | Control the mouse with hand gestures through a webcam | MediaPipe · OpenCV · PyAutoGUI |
 
@@ -23,8 +24,8 @@ I'm a final-year B.E. student in Artificial Intelligence & Machine Learning at *
 | Area | Tools |
 |---|---|
 | **Languages** | Java · Python · JavaScript · TypeScript · SQL · Dart · PHP · HTML/CSS |
-| **Web & Mobile** | Flutter · Flask · React · Node.js / Express · Tailwind CSS |
-| **AI / ML & Data** | Scikit-learn · PyTorch · YOLOv8 · OpenCV · Pandas · NumPy · Matplotlib · Seaborn · Streamlit |
+| **Web & Mobile** | Flutter · Flask · FastAPI · React · Node.js / Express · Tailwind CSS |
+| **AI / ML & Data** | Scikit-learn · PyTorch · Hugging Face Transformers · LLMs / NLP · YOLOv8 · OpenCV · Pandas · NumPy · Matplotlib · Seaborn · Streamlit |
 | **Databases & Cloud** | MySQL · SQLite · Firebase (Cloud Firestore, Cloud Messaging) · Vercel |
 | **Core CS** | Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks |
 
